@@ -1,0 +1,6 @@
+NET "zero" LOC = "H18";
+NET "one" LOC = "N17";
+NET "reset" LOC = "L14";
+NET "unlatch" LOC = "L13";
+NET "unlock" LOC = "F12";
+NET "clk" LOC = "C9";
