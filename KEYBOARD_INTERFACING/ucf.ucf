@@ -1,0 +1,11 @@
+NET "ps2_clk" LOC = "G14" | CLOCK_DEDICATED_ROUTE = FALSE;
+NET "ps2_data" LOC = "G13";
+NET "clk" LOC = "C9";
+//NET = "sf_e" LOC = "D16";
+//NET = "e" LOC = "M18";
+//NET = "rs" LOC = "L18";
+//NET = "rw" LOC = "L17";
+//NET = "d" LOC = "M15";
+//NET = "c" LOC = "P17";	
+//NET = "b" LOC = "R16";	
+//NET = "a" LOC = "R15";
